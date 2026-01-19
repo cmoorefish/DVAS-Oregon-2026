@@ -18,7 +18,7 @@ This local initiative aims to protect District 52 elections from AI-generated mi
 1. **Verify Authenticity:** Establish a "Root of Trust" for all campaign media.
 2. **Donor Privacy:** Utilizing Zero-Knowledge Proofs (ZKP) to protect individual privacy while ensuring regulatory compliance.
 3. **Transparency:** Open-source verification accessible to all Oregon voters.
-[Read the Technical Whitepaper here](./TECHNICAL_WHITEPAPER.md
+[Read the Whitepaper](./TECHNICAL_WHITEPAPER.md)
 ---
 
 > **How to participate:**

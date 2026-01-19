@@ -21,3 +21,4 @@ DVAS is a Parallel Transparency Layer. Because it is not integrated into the air
 5. How does DVAS handle the "Postmark Rule" and late data?
 
 DVAS logic follows the ORS 254.485 standards. It timestamps cryptographic proofs in real-time. For the 2026 pilot, it will provide a secondary timestamp that assists auditors in reconciling late-arriving campaign contributions with their verification status.
+Add Official FAQ for 2026 Pilot
